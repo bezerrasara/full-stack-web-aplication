@@ -1,4 +1,8 @@
-# Tab Tracker
+# Aplicação do tutorial Tab Tracker do YouTube
+Link do tutorial: https://www.youtube.com/watch?v=Fa4cRMaTDUI&list=PLaRVQcAuLimG_qplzZFU-p6lsSS4czT7e&index=1 
+
+
+#Tab Tracker
 A Vue.js / Express.js web application for keeping track of guitar tabs
 
 # Setup
