@@ -1,0 +1,23 @@
+Comandos
+
+npm init -f => cria um arquivo package.json
+
+nodemon útil para reiniciar continuamente o servidor, e o eslint:
+npm install --save nodemon eslint
+
+
+comando para instalar o express, body-parser cors e morgan
+npm install --save express body-parser cors morgan
+
+body-parser é um analisador de corpo que permite processar dados com json com muita facilidade.
+morgan é um pacote gerador de logs
+
+
+configurando servidor express, alguns comandos: 
+Permite analisar todas as solicitações de log:
+*app.use(bodyParser.json())
+
+criando endpoint:
+*app.get('status', (req, res) => {
+    
+})
